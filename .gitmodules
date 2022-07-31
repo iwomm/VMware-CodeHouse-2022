@@ -1,3 +1,6 @@
 [submodule "vm-ch-prework"]
 	path = vm-ch-prework
 	url = https://github.com/paulageronimo/vm-ch
+[submodule "vm-ch-pw"]
+	path = vm-ch-pw
+	url = https://github.com/paulageronimo/vm-ch
